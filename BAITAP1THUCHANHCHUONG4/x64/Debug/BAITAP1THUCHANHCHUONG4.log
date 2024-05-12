@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\BAITAP1THUCHANHCHUONG4\Menu.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\BAITAP1THUCHANHCHUONG4\Menu.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+  Menu.cpp
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\BAITAP1THUCHANHCHUONG4\Menu.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\BAITAP1THUCHANHCHUONG4\Menu.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Menu.cpp')
+  
+  Generating Code...
+  BAITAP1THUCHANHCHUONG4.vcxproj -> C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\x64\Debug\BAITAP1THUCHANHCHUONG4.exe

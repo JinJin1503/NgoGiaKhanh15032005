@@ -1,0 +1,7 @@
+﻿  Thuvien.cpp
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAPTAPCHUYENXE_THUVIEN\THUVIEN\Thuvien.cpp(50,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAPTAPCHUYENXE_THUVIEN\THUVIEN\Thuvien.cpp(63,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAPTAPCHUYENXE_THUVIEN\THUVIEN\Thuvien.cpp(63,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAPTAPCHUYENXE_THUVIEN\THUVIEN\Thuvien.cpp(105,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAPTAPCHUYENXE_THUVIEN\THUVIEN\Thuvien.cpp(110,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  THUVIEN.vcxproj -> C:\Users\ASUS\OneDrive\Documents\GitHub\BAPTAPCHUYENXE_THUVIEN\x64\Debug\THUVIEN.exe

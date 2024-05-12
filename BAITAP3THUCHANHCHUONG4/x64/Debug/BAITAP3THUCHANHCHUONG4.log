@@ -1,0 +1,5 @@
+﻿  Fraction.cpp
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\BAITAP3THUCHANHCHUONG4\Fraction.cpp(6,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Generating Code...
+  BAITAP3THUCHANHCHUONG4.vcxproj -> C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\x64\Debug\BAITAP3THUCHANHCHUONG4.exe

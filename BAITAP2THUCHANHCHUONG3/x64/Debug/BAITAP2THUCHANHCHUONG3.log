@@ -1,0 +1,6 @@
+﻿  SinhVien.cpp
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\BAITAP2THUCHANHCHUONG3\SinhVien.cpp(30,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\BAITAP2THUCHANHCHUONG3\SinhVien.cpp(36,16): error C2084: function 'void SinhVien::docDanhSachTuFile(std::vector<SinhVien,std::allocator<SinhVien>> &)' already has a body
+  C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\BAITAP2THUCHANHCHUONG3\SinhVien.cpp(13,16):
+  see previous definition of 'docDanhSachTuFile'
+  

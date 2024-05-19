@@ -1,0 +1,38 @@
+﻿  Nhan_Vien.cpp
+  Nhan_Vien_FullTime.cpp
+  Nhan_Vien_PartTime.cpp
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\Nhan_Vien\Nhan_Vien_PartTime.cpp(51,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\Nhan_Vien\Nhan_Vien_PartTime.cpp(53,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  testNhanVien.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244:         ]
+  (compiling source file 'testNhanVien.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xutility(255,82):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\Nhan_Vien\testNhanVien.cpp(14,26):
+  	see reference to function template instantiation 'std::shared_ptr<Nhan_Vien_FullTime> std::make_shared<Nhan_Vien_FullTime,int,const char(&)[6],const char(&)[11],const char(&)[11],int,double,int>(int &&,const char (&)[6],const char (&)[11],const char (&)[11],int &&,double &&,int &&)' being compiled
+  	C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\memory(2738,46):
+  	see reference to function template instantiation 'std::_Ref_count_obj2<Nhan_Vien_FullTime>::_Ref_count_obj2<_Ty,const char(&)[6],const char(&)[11],const char(&)[11],_Ty,double,_Ty>(_Ty &&,const char (&)[6],const char (&)[11],const char (&)[11],_Ty &&,double &&,_Ty &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\memory(2062,18):
+  	see reference to function template instantiation 'void std::_Construct_in_place<_Ty,int,const char(&)[6],const char(&)[11],const char(&)[11],int,double,int>(_Ty &,int &&,const char (&)[6],const char (&)[11],const char (&)[11],int &&,double &&,int &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Nhan_Vien_FullTime
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244:         ]
+  (compiling source file 'testNhanVien.cpp')
+  
+  Generating Code...
+  Nhan_Vien.vcxproj -> C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOPTONGHOP\x64\Debug\Nhan_Vien.exe

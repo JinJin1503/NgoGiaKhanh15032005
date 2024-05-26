@@ -1,0 +1,7 @@
+﻿  OtoTai.cpp
+D:\Documents\GitHub\BAITAPOOPTONGHOP\Showroom\OtoTai.cpp(29,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Documents\GitHub\BAITAPOOPTONGHOP\Showroom\OtoTai.cpp(31,31): warning C4244: 'return': conversion from 'float' to '__int64', possible loss of data
+D:\Documents\GitHub\BAITAPOOPTONGHOP\Showroom\OtoTai.cpp(34,31): warning C4244: 'return': conversion from 'float' to '__int64', possible loss of data
+D:\Documents\GitHub\BAITAPOOPTONGHOP\Showroom\OtoTai.cpp(40,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\Documents\GitHub\BAITAPOOPTONGHOP\Showroom\OtoTai.cpp(44,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+  Showroom.vcxproj -> D:\Documents\GitHub\BAITAPOOPTONGHOP\x64\Debug\Showroom.exe

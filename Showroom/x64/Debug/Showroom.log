@@ -1,3 +1,0 @@
-﻿  TestMain.cpp
-D:\Documents\GitHub\BAITAPOOPTONGHOP\Showroom\TestMain.cpp(105,53): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
-  Showroom.vcxproj -> D:\Documents\GitHub\BAITAPOOPTONGHOP\x64\Debug\Showroom.exe

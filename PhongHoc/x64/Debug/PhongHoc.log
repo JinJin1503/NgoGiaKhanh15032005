@@ -1,0 +1,9 @@
+﻿  PhongLiThuyet.cpp
+D:\Documents\GitHub\BAITAPOOPTONGHOP\PhongHoc\PhongLiThuyet.cpp(27,47): warning C4804: '>': unsafe use of type 'bool' in operation
+  PhongMayTinh.cpp
+  PhongThiNghiem.cpp
+D:\Documents\GitHub\BAITAPOOPTONGHOP\PhongHoc\PhongThiNghiem.cpp(68,45): warning C4804: '>': unsafe use of type 'bool' in operation
+  TestMain.cpp
+  quanLyPhongHoc.cpp
+  Generating Code...
+  PhongHoc.vcxproj -> D:\Documents\GitHub\BAITAPOOPTONGHOP\x64\Debug\PhongHoc.exe
